@@ -61,8 +61,8 @@ Sources:
 
 |                           | Windows  | Linux (WSL) |
 |---------------------------|----------|-------------|
-| Old Code (5 runs Average) | 41.31s   | 2.75s       |
-| New Code (5 runs Average) | 0.85s    | 0.66s       |
+| Old Code (5 runs average) | 41.31s   | 2.75s       |
+| New Code (5 runs average) | 0.85s    | 0.66s       |
 
 ## Additional Notes
 
